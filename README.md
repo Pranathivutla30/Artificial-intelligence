@@ -1,10 +1,10 @@
-# 🤖 AI Final Project Repository – Churn Prediction & Model Evaluation
+# 🤖 AI  Project Repository – Churn Prediction & Model Evaluation
 
 Welcome to my Artificial Intelligence project repository! This repository showcases two AI projects developed as part of my academic coursework, focused on building, evaluating, and interpreting machine learning classification models using real-world data. It also includes a comprehensive PDF report explaining the methods, results, and conclusions drawn from the projects.
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 This repository includes the following:
 
@@ -19,7 +19,7 @@ This repository includes the following:
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Predict customer churn using classification techniques  
 - Evaluate model effectiveness using multiple performance metrics  
@@ -30,7 +30,7 @@ This repository includes the following:
 
 ---
 
-## 🔍 What You’ll Learn
+##  What You’ll Learn
 
 - How to build a machine learning pipeline from scratch
 - How to clean and prepare data for modeling
@@ -42,7 +42,7 @@ This repository includes the following:
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 1. **Dataset**  
    The dataset used focuses on customer churn, where the target variable indicates whether a customer left the service.
@@ -68,7 +68,7 @@ This repository includes the following:
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 - **Confusion Matrix**: Shows true/false positives and negatives for classification results.
 - **ROC Curve & AUC Score**: Indicates how well the model separates classes.
